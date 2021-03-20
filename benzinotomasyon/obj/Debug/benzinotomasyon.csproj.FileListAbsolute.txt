@@ -1,0 +1,9 @@
+C:\Users\Hp\Desktop\Çalışma Platformu\benzinotomasyon\benzinotomasyon\bin\Debug\benzinotomasyon.exe.config
+C:\Users\Hp\Desktop\Çalışma Platformu\benzinotomasyon\benzinotomasyon\bin\Debug\benzinotomasyon.exe
+C:\Users\Hp\Desktop\Çalışma Platformu\benzinotomasyon\benzinotomasyon\bin\Debug\benzinotomasyon.pdb
+C:\Users\Hp\Desktop\Çalışma Platformu\benzinotomasyon\benzinotomasyon\obj\Debug\benzinotomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\Çalışma Platformu\benzinotomasyon\benzinotomasyon\obj\Debug\benzinotomasyon.Form1.resources
+C:\Users\Hp\Desktop\Çalışma Platformu\benzinotomasyon\benzinotomasyon\obj\Debug\benzinotomasyon.Properties.Resources.resources
+C:\Users\Hp\Desktop\Çalışma Platformu\benzinotomasyon\benzinotomasyon\obj\Debug\benzinotomasyon.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\Çalışma Platformu\benzinotomasyon\benzinotomasyon\obj\Debug\benzinotomasyon.exe
+C:\Users\Hp\Desktop\Çalışma Platformu\benzinotomasyon\benzinotomasyon\obj\Debug\benzinotomasyon.pdb
